@@ -1,0 +1,7 @@
+{
+  "name": "AngularWEBRTC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
